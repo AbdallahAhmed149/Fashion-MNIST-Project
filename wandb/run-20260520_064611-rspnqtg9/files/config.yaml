@@ -1,0 +1,64 @@
+_wandb:
+    value:
+        cli_version: 0.27.0
+        e:
+            xyws5rw3ml36qghdwnqyrnw4dxogfv6q:
+                codePath: main.py
+                codePathLocal: main.py
+                cpu_count: 4
+                cpu_count_logical: 8
+                cudaVersion: "13.0"
+                disk:
+                    /:
+                        total: "153592262656"
+                        used: "53864652800"
+                email: abdallah.ab1492006@gmail.com
+                executable: C:\Users\mwafy\AppData\Local\Programs\Python\Python310\python.exe
+                gpu: Quadro M1000M
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Maxwell
+                      cudaCores: 512
+                      memoryTotal: "2147483648"
+                      name: Quadro M1000M
+                      uuid: GPU-357f45d7-5fe3-563b-2cbf-9f5099bd9422
+                host: AbdallahAhmed
+                memory:
+                    total: "21278117888"
+                os: Windows-10-10.0.19045-SP0
+                program: d:\fashion_mnist_project\main.py
+                python: CPython 3.10.7
+                root: D:\fashion_mnist_project
+                startedAt: "2026-05-20T03:46:11.546669Z"
+                writerId: xyws5rw3ml36qghdwnqyrnw4dxogfv6q
+        m: []
+        python_version: 3.10.7
+        t:
+            "1":
+                - 1
+                - 41
+            "2":
+                - 1
+                - 41
+            "3":
+                - 1
+                - 2
+                - 3
+                - 13
+                - 16
+            "4": 3.10.7
+            "5": 0.27.0
+            "8":
+                - 3
+            "12": 0.27.0
+            "13": windows-amd64
+architecture:
+    value: MLP
+batch_size:
+    value: 64
+dataset:
+    value: FashionMNIST
+epochs:
+    value: 5
+learning_rate:
+    value: 0.001

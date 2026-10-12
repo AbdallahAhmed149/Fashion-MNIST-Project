@@ -1,0 +1,36 @@
+{
+  "os": "Windows-10-10.0.19045-SP0",
+  "python": "CPython 3.10.7",
+  "startedAt": "2026-05-20T03:46:11.546669Z",
+  "program": "d:\\fashion_mnist_project\\main.py",
+  "codePath": "main.py",
+  "codePathLocal": "main.py",
+  "email": "abdallah.ab1492006@gmail.com",
+  "root": "D:\\fashion_mnist_project",
+  "host": "AbdallahAhmed",
+  "executable": "C:\\Users\\mwafy\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "gpu": "Quadro M1000M",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "153592262656",
+      "used": "53864652800"
+    }
+  },
+  "memory": {
+    "total": "21278117888"
+  },
+  "gpu_nvidia": [
+    {
+      "name": "Quadro M1000M",
+      "memoryTotal": "2147483648",
+      "cudaCores": 512,
+      "architecture": "Maxwell",
+      "uuid": "GPU-357f45d7-5fe3-563b-2cbf-9f5099bd9422"
+    }
+  ],
+  "cudaVersion": "13.0",
+  "writerId": "xyws5rw3ml36qghdwnqyrnw4dxogfv6q"
+}
