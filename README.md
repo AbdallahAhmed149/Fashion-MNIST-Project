@@ -265,13 +265,13 @@ Each training run stores its configuration and results in a JSON file. A typical
 
 ```json
 {
-  "architecture": "Multi-Layer Perceptron (MLP)",
-  "batch_size": 64,
-  "epochs": 5,
-  "learning_rate": 0.001,
-  "final_accuracy": 0.0,
-  "final_test_loss": 0.0,
-  "training_time_seconds": 0.0
+    "architecture": "Multi-Layer Perceptron (MLP)",
+    "batch_size": 64,
+    "epochs": 5,
+    "learning_rate": 0.001,
+    "final_accuracy": 88.36,
+    "final_test_loss": 0.32595678276506956,
+    "training_time_seconds": 146.69
 }
 ```
 
